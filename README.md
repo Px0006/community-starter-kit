@@ -4,7 +4,7 @@ A great app that stream lines onboarding
 
 ## What it does
 
-FEATURES PLACEHOLDER
+A simple issue tracker
 
 ## Getting started
 
