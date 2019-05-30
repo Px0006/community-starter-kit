@@ -1,6 +1,6 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+A great app that stream lines onboarding 
 
 ## What it does
 
